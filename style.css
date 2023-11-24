@@ -1,0 +1,22 @@
+.Result { background-color: rgb(79, 24, 231); text-align: center; height: 350px; padding: 25px 25px 25px 25px ; 
+    border-radius: 10%; max-width: 250px; ; ; align-content: center; padding-right: 50px ;}
+.score {  border-radius: 50%;background-color: blue; height: 150px; width: 150px ; 
+    margin-left: 15%; margin-right: 15% ;  }
+.mark { font-size: 50px; margin-top:px;}
+.content { display: flex;}
+.summary { background-color: white; padding: 20px ; border-radius: 10%;
+max-width: 250px ; min-width: 200px  ; max-height: 350px; }
+.Reaction, .Memory, .verbal, .Visual,.Continue { margin-top: 30px; height: 30px ;border-radius: 10%;
+    padding-bottom: 5% ;display: inline-flex ;  }
+.Reaction {background-color: rgb(243, 221, 221); color: red ;}
+.Memory{ background-color: rgb(243, 235, 192); color: rgb(221, 198, 64);}
+.verbal {background-color: rgb(200, 253, 253); color: rgb(27, 177, 177);}
+.Visual{background-color: rgb(162, 162, 241); color: blue;}
+.Continue{ align-self: baseline;margin-top: 30px; text-align: center;}
+input{ height: 25px ; width: 200px ; border-radius: 15%; background-color: rgb(129, 121, 121); 
+       color: white;}
+input:hover {
+    background-color: blue;
+}
+.num {text-align: right; margin-left: 60px ;}
+.remark{ color: rgb(175, 176, 177);}
